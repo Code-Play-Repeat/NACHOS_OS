@@ -1,5 +1,5 @@
-Simple Operating System for group 2 of CSE150 class
-===================================================
+Simple Operating System for group 2 of CSE150 University of California, Merced class
+====================================================================================
 
 + Documentation for running the files is included.
 + Documentation on our implementations are included in the design documents.
