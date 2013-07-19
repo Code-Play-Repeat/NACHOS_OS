@@ -1,7 +1,7 @@
 Documentation
 ==============
 
-* Contained within this section is the various documentation needed for running and understanding the NACHOS.
+* Contained within this section is the various documentation needed for running and understanding the NACHOS OS.
 * The design documents describe how our group tackled the different problem spaces.
 * DesignDoc1 contains everything about how we built the thread system.
 * DesignDoc2 contains everything about how we implemented multiprogramming support.
